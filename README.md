@@ -1,1 +1,1 @@
-CICD deployment of smaplephp website
+CICD deployment of samplephp website
